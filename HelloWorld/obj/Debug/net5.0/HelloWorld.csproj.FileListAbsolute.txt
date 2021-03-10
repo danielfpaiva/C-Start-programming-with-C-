@@ -1,0 +1,16 @@
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\xampp\htdocs\C-Start-programming-with-C-\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
