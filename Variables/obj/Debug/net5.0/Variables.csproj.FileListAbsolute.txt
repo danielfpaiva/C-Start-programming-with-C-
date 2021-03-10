@@ -1,0 +1,15 @@
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\bin\Debug\net5.0\Variables.exe
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\bin\Debug\net5.0\Variables.deps.json
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\bin\Debug\net5.0\Variables.runtimeconfig.json
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\bin\Debug\net5.0\Variables.runtimeconfig.dev.json
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\bin\Debug\net5.0\Variables.dll
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\bin\Debug\net5.0\ref\Variables.dll
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\bin\Debug\net5.0\Variables.pdb
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\obj\Debug\net5.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\obj\Debug\net5.0\Variables.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\obj\Debug\net5.0\Variables.AssemblyInfo.cs
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\obj\Debug\net5.0\Variables.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\obj\Debug\net5.0\Variables.dll
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\obj\Debug\net5.0\ref\Variables.dll
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\obj\Debug\net5.0\Variables.pdb
+C:\xampp\htdocs\C-Start-programming-with-C-\Variables\obj\Debug\net5.0\Variables.genruntimeconfig.cache

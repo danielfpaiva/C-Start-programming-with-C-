@@ -1,0 +1,16 @@
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\bin\Debug\net5.0\Switch.exe
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\bin\Debug\net5.0\Switch.deps.json
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\bin\Debug\net5.0\Switch.runtimeconfig.json
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\bin\Debug\net5.0\Switch.runtimeconfig.dev.json
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\bin\Debug\net5.0\Switch.dll
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\bin\Debug\net5.0\ref\Switch.dll
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\bin\Debug\net5.0\Switch.pdb
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\obj\Debug\net5.0\Switch.csprojAssemblyReference.cache
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\obj\Debug\net5.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\obj\Debug\net5.0\Switch.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\obj\Debug\net5.0\Switch.AssemblyInfo.cs
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\obj\Debug\net5.0\Switch.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\obj\Debug\net5.0\Switch.dll
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\obj\Debug\net5.0\ref\Switch.dll
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\obj\Debug\net5.0\Switch.pdb
+C:\xampp\htdocs\C-Start-programming-with-C-\Switch\obj\Debug\net5.0\Switch.genruntimeconfig.cache
